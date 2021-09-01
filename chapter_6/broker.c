@@ -5,7 +5,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main(void)
+int main (void)
 {
     float trade, com_rate; //Transaction Size and commission rate respectively
     int com; //Commission to be added
